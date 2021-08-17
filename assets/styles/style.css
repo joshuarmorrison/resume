@@ -1,0 +1,42 @@
+:root{
+    --primary: lightblue;
+}
+header{
+    background-color: lightblue;
+    text-align:center;
+    color: blue;
+    border-color:black;
+    border-style:solid;
+   margin-top: 0px !important;
+    
+    }
+main h2{
+    text-align: center;
+    color:blue;
+    background-color: lightblue;
+    border-color: black;
+    border-style:solid;
+    margin-top: 15px;
+
+}
+main{
+    display:flex;
+    height: 80vh;
+
+}
+
+footer{
+    background-color: var(--primary);
+    height: 5em;
+
+}
+.Another-Article{
+    text-align: center;
+    justify-content: center !important;
+}
+
+
+
+
+    
+ 
